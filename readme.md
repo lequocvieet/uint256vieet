@@ -11,8 +11,8 @@ I especially enjoy working with **Cosmos SDK**, **Geth**, **Reth custom executio
 
 
 ## Technical Expertise
-- **Languages**: Go,Rust, Solidity,C++ 
-- **Platforms**: EVM, Cosmos, layer1,layer2,Tendermint,...
+- **Languages**: Go, Rust, C++, Solidity
+- **Platforms**: EVM, Cosmos, layer1, layer2, Tendermint,...
 - **Focus Areas**: Blockchain security
 
 ## Contact Me
@@ -26,15 +26,15 @@ I especially enjoy working with **Cosmos SDK**, **Geth**, **Reth custom executio
 
 
 # Highlights
-- Discovered and reported a High-severity vulnerability via Immunefi and got 25k payout
-- Participated in 5+ public audit contests. Found High, or Medium severity vulnerabilities
+- Discovered and reported a High-severity vulnerability via Immunefi and got a **25k** payout
+- Participated in 6+ public audit contests. Found High, Medium severity vulnerabilities
 
 ## 🛡️ Previous Audits
 
 | Audit        | Found   | Report  | Date     | Platform   | Category        |
 |--------------|---------|---------|----------|------------|-----------------|
-| Mezod          | [1 Solo M](https://cantina.xyz/code/e757364c-1f68-4ec5-94f6-c6b3c2e80c6d/overview/leaderboard) | Private | April 2025 | Cantina|  Cosmos SDK    |
-| Zetachain          | [6 Low](https://audits.sherlock.xyz/contests/857) | Private | May 2025 | Sherlock    |  Cosmos SDK layer1  |
+| Mezod          | [1 Solo M](https://cantina.xyz/code/e757364c-1f68-4ec5-94f6-c6b3c2e80c6d/overview/leaderboard) | Private | April 2025 | Cantina|  Cosmos SDK written in  Go   |
+| Zetachain          | [6 Low](https://audits.sherlock.xyz/contests/857) | Private | May 2025 | Sherlock    |  Cosmos SDK layer1 written in  Go |
 | Telcoin-network      | [1 H](https://cantina.xyz/code/26d5255b-6f68-46cf-be55-81dd565d9d16/overview/leaderboard) | Private | Jul 2025 | Cantina       | Layer1 written in Rust     |
 | Citrea      | [1 M](https://cantina.xyz/code/49b9e08d-4f8f-4103-b6e5-f5f43cf9faa1/overview/leaderboard) | Private | Aug 2025 | Cantina       | Layer2 Roll-up written in Rust     |
 | Somina      | [2 M(1 solo) , 1  Low (8.5k payout)](https://hackenproof.com/audit-programs/somnia-audit-contest?tab=hackers) | Private | Sep 2025 | Hacken proof       | Layer1 written in C++     |
@@ -42,4 +42,4 @@ I especially enjoy working with **Cosmos SDK**, **Geth**, **Reth custom executio
 ## 🐞Bug Bounty
 | Protocol        | Found   | Link  | Date     | Platform   | Category        |
 |--------------|---------|---------|----------|------------|-----------------|
-| Private          | 1H(25k payout) | [Immunefi](https://immunefi.com/profile/uint256vieet/)| june 2025 | Immunefi   |  Cosmosdk layer1|
+| Private          | 1H(25k payout) | [Immunefi](https://immunefi.com/profile/uint256vieet/)| june 2025 | Immunefi   |  Cosmos sdk layer1 written in  Go|
