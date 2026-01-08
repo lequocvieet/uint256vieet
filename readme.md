@@ -38,6 +38,7 @@ I especially enjoy working with **Cosmos SDK**, **Geth**, **Reth custom executio
 | Telcoin-network      | [1 H](https://cantina.xyz/code/26d5255b-6f68-46cf-be55-81dd565d9d16/overview/leaderboard) | Private | Jul 2025 | Cantina       | Layer1 written in Rust     |
 | Citrea      | [1 M](https://cantina.xyz/code/49b9e08d-4f8f-4103-b6e5-f5f43cf9faa1/overview/leaderboard) | Private | Aug 2025 | Cantina       | Layer2 Roll-up written in Rust     |
 | Somina      | [2 M(1 solo) , 1  Low (8.5k payout)](https://hackenproof.com/audit-programs/somnia-audit-contest?tab=hackers) | Private | Sep 2025 | Hacken proof       | Layer1 written in C++     |
+| Monad      | [1(LOW/QA)](https://code4rena.com/audits/2025-09-monad/submissions?uid=6qPyF9igntg) | Private | Oct 2025 | Code4rena       | Layer1 written in Rust     |
 
 ## 🐞Bug Bounty
 | Protocol        | Found   | Link  | Date     | Platform   | Category        |
