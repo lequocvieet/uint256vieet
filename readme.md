@@ -1,4 +1,4 @@
-Updated: Nov 5, 2025
+Updated: Mar 12, 2026
 
 # Hi, I'm Viet, an independent Web3 security researcher
 
