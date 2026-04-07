@@ -22,7 +22,7 @@ I especially enjoy working with **Cosmos SDK**, **Geth**, **Reth custom executio
 
 # Experience
 - **September 2022 - March 2025**: Blockchain developer at [VNPAY](https://vnpay.vn/)
-- **March 2025 - Present**: Independent Web3 security researcher. Participating in contests and hunting bug bounties on Immunefi
+- **March 2025 - Present**: Independent Web3 security researcher. Participating in contests and hunting bug bounties on Immunefi, hackenproof, cantina ...
 
 
 # Highlights
@@ -39,7 +39,7 @@ I especially enjoy working with **Cosmos SDK**, **Geth**, **Reth custom executio
 | Citrea      | [1 Medium, 3 Low, 3 Info](https://cantina.xyz/code/49b9e08d-4f8f-4103-b6e5-f5f43cf9faa1/overview/leaderboard) | [Report](https://cantina.xyz/portfolio/29bf9d98-1cd4-40dc-9936-75c901a5ecb5) | Aug 2025 | Cantina       | Layer2 Roll-up written in Rust     |
 | Somina      | [2 M(1 solo) , 1  Low (8.5k payout)](https://hackenproof.com/audit-programs/somnia-audit-contest?tab=hackers) | [Report](https://hackenproof.com/audit-programs/somnia-audit-contest?tab=reports)  | Sep 2025 | Hacken proof       | Layer1 written in C++     |
 | Monad      | [1(LOW/QA)](https://code4rena.com/audits/2025-09-monad/submissions?uid=6qPyF9igntg) | [Report](https://code4rena.com/audits/2025-09-monad/submissions?uid=6qPyF9igntg)  | Oct 2025 | Code4rena       | Layer1 written in Rust     |
-| XRPL Attackathon      | [1 Solo critical+ 1 Low (6.6k payout)](https://immunefi.com/audit-competition/xrpl-ripple-attackathon/leaderboard/#top) | Soon | Dec 2025 | Immunefi       | XRP Ledger-native Lending Protocol C++     |
+| XRPL Attackathon      | [1 Solo critical+ 1 Low (6.6k payout)](https://immunefi.com/audit-competition/xrpl-ripple-attackathon/leaderboard/#top) | [report](https://immunefi.com/audit-competition/xrpl-ripple-attackathon/information/) | Dec 2025 | Immunefi       | XRP Ledger-native Lending Protocol C++     |
 
 ## 🐞Bug Bounty
 | Protocol        | Found   | Link  | Date     | Platform   | Category        |
